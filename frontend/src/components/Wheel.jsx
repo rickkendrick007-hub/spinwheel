@@ -67,11 +67,11 @@ export default function Wheel({ offers, rotation = 0 }) {
           })}
           <circle cx="200" cy="200" r="56" fill="#08101f" stroke="#f5c15b" strokeWidth="4" />
           <circle cx="200" cy="200" r="34" fill="#0d1b33" stroke="rgba(255,255,255,.08)" strokeWidth="1" />
-          <text x="200" y="193" textAnchor="middle" fill="#94a3b8" fontSize="11" letterSpacing="1.8">
-            TAP TO
+          <text x="200" y="193" textAnchor="middle" fill="#94a3b8" fontSize="9" letterSpacing="1.8">
+            Click Below
           </text>
-          <text x="200" y="212" textAnchor="middle" fill="#ffffff" fontSize="18" fontWeight="700">
-            SPIN
+          <text x="200" y="212" textAnchor="middle" fill="#ffffff" fontSize="10" fontWeight="700">
+            To SPIN
           </text>
         </svg>
       </div>
