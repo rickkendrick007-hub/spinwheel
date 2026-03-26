@@ -67,7 +67,7 @@ export default function Wheel({ offers, rotation = 0 }) {
           })}
           <circle cx="200" cy="200" r="56" fill="#08101f" stroke="#f5c15b" strokeWidth="4" />
           <circle cx="200" cy="200" r="34" fill="#0d1b33" stroke="rgba(255,255,255,.08)" strokeWidth="1" />
-          <text x="200" y="212" textAnchor="middle" fill="#ffffff" fontSize="13" fontWeight="700">
+          <text x="200" y="200" textAnchor="middle" fill="#ffffff" fontSize="15" fontWeight="700">
             SPIN
           </text>
         </svg>
